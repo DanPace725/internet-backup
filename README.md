@@ -1,4 +1,4 @@
-# internet-backup
+# Personal Internet Backup
 Project for creating personal internet backup systems
 
 
